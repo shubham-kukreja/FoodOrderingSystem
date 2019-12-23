@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 497 275" id="el_libhTbfhy"><style>@-webkit-keyframes kf_el_Oi7R0j9V7v_an_xzG3_LiX3{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}@keyframes kf_el_Oi7R0j9V7v_an_xzG3_LiX3{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}#el_libhTbfhy *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_Oi7R0j9V7v{-webkit-transform: translate(-119px, -653px);transform: translate(-119px, -653px);-webkit-animation-fill-mode: backwards;animation-fill-mode: backwards;opacity: 1;-webkit-animation-name: kf_el_Oi7R0j9V7v_an_xzG3_LiX3;animation-name: kf_el_Oi7R0j9V7v_an_xzG3_LiX3;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_5OZnB42_xc{fill: #393939;-webkit-transform: translate(119px, 653px);transform: translate(119px, 653px);}#el_czGGGcRdXt{fill: #fff;-webkit-transform: translate(148.016px, 857.529px);transform: translate(148.016px, 857.529px);}#el_JD_40USqq4{fill: #fff;-webkit-transform: translate(148.016px, 675.647px);transform: translate(148.016px, 675.647px);}#el_UMRMJh28CP{fill: #fff;-webkit-transform: translate(326.36px, 774.019px);transform: translate(326.36px, 774.019px);}#el_ETR9TNMge7{fill: #fff;-webkit-transform: translate(404.209px, 680.601px);transform: translate(404.209px, 680.601px);}#el_RLP0hVdBn2{fill: #fff;-webkit-transform: translate(404.209px, 727.31px);transform: translate(404.209px, 727.31px);}</style>
+  <defs>
+    
+  </defs>
+  <g id="el_Oi7R0j9V7v" data-name="Group 1">
+    <rect id="el_5OZnB42_xc" data-name="Rectangle 7" width="497.523" height="275.3" rx="19"/>
+    <rect id="el_czGGGcRdXt" data-name="Rectangle 8" width="438.782" height="48.125" rx="22"/>
+    <rect id="el_JD_40USqq4" data-name="Rectangle 9" width="133.05" height="162.066" rx="21"/>
+    <rect id="el_UMRMJh28CP" data-name="Rectangle 12" width="260.439" height="30.432" rx="15.216"/>
+    <rect id="el_ETR9TNMge7" data-name="Rectangle 21" width="182.59" height="30.432" rx="15.216"/>
+    <rect id="el_RLP0hVdBn2" data-name="Rectangle 22" width="182.59" height="30.432" rx="15.216"/>
+  </g>
+</svg>

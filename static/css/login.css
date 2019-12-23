@@ -1,0 +1,153 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url("../Images/Rectangle\ 2.png");
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    display: block;
+    color: #3A3A3A;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
+.container {
+    height: 100vh;
+    width: fit-content;
+    box-sizing: border-box;
+    background-color: #565656;
+    padding: 50px 60px;
+    text-align: center;
+    /* border-radius: 0 30px 30px 0; */
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.91)
+}
+.heading {
+    margin: 0;
+    padding: 0;
+    font-size: 60px;
+    font-weight: 500;
+    color: white;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+input, button {
+    width: 300px;
+    height: 50px;
+    border-radius: 40px;
+    border: none;
+    margin: 7px 0px;
+    padding: 0px 30px;
+    font-size: 18px;
+    transition: 0.2s ease-in-out;
+}
+input:focus {
+    outline: none;
+    
+}
+button {
+    margin-top: 10px;
+    margin-right: 0px;
+    width: 175px;
+    padding: 10px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 600;
+    color: #3A3A3A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.6)
+}
+button:hover {
+    cursor: pointer;
+    background-color: #49BB5B;
+    color: white; 
+}
+button:hover a{
+    color: white;
+}
+.link {
+    display: block;
+    margin-top : 5px;
+    color: white;
+    text-decoration: none;
+}
+.id-card {
+    margin-top: 40px;
+    width: 350px;
+    transition: 5s ease-in-out;
+}
+.small-heading {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-weight: 450;
+    color: white;
+    padding-left: 15px;
+    margin-top: 25px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.75);
+}
+.line {
+    display: inline-block;
+    background-color: #3A3A3A;
+    width: 150px;
+    height: 7px;
+}
+.seperator {
+    display: inline-block;
+    color: white;
+    margin: 8px;
+    padding-top: 5px;
+    font-weight: 400;
+}
+::-webkit-input-placeholder {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color : #3A3A3A;
+    font-weight: 500; 
+    opacity: 0.8;
+}
+.btn {
+    display: block;
+    background-color: #565656;
+    color: white;
+    width: fit-content;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
+p.error {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.quotes {
+    display: block;
+    z-index: 100;
+    top: 0;
+    position: absolute;
+    font-size: 40px;
+    margin-left: 40%;
+    margin-top: 10%;
+    color:white ;
+}
+.id-card-svg {
+    height: 99vh;
+    width: 50%;
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    right: 150px;
+    text-align: center;
+    padding-top: 175px;
+    box-sizing: border-box;
+}
+@keyframes item {
+    from {width: 0;}
+    to {width: 300px;}
+}
+  

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="497.523" height="275.3" viewBox="0 0 497.523 275.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #393939;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-119 -653)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="497.523" height="275.3" rx="19" transform="translate(119 653)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="438.782" height="48.125" rx="22" transform="translate(148.016 857.529)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="133.05" height="162.066" rx="21" transform="translate(148.016 675.647)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-2" width="260.439" height="30.432" rx="15.216" transform="translate(326.36 774.019)"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-2" width="182.59" height="30.432" rx="15.216" transform="translate(404.209 680.601)"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-2" width="182.59" height="30.432" rx="15.216" transform="translate(404.209 727.31)"/>
+  </g>
+</svg>
