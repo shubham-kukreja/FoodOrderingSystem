@@ -60,21 +60,21 @@ def logout(requset):
         requset.user.profile.balance -= cart.total
         requset.user.profile.save()
         product = Product.objects.all()
-        sendto_mail = requset.user.email
-        if sendto_mail == "":
-            sendto_mail = 'shubhamkukreja1111@gmail.com'
-        print(sendto_mail)
-        content = "Subject : Transaction Alert\n\n" + "Hello " + requset.user.first_name + ",\n" + "Your Order :\n "
-        for item in cart.products.all():
-            content += str(item.title) + " x "
-            content += str(item.quantity) + "\n"
-        content += "You have spent Rs." + str(cart.total)
-        mail = smtplib.SMTP('smtp.gmail.com', 587)
-        mail.ehlo()
-        mail.starttls()
-        mail.login('skukreja434@gmail.com', 'vijan5562')
-        mail.sendmail('skukreja434@gmail.com', sendto_mail, content)
-        mail.close()
+        # sendto_mail = requset.user.email
+        # if sendto_mail == "":
+        #     sendto_mail = 'shubhamkukreja1111@gmail.com'
+        # print(sendto_mail)
+        # content = "Subject : Transaction Alert\n\n" + "Hello " + requset.user.first_name + ",\n" + "Your Order :\n "
+        # for item in cart.products.all():
+        #     content += str(item.title) + " x "
+        #     content += str(item.quantity) + "\n"
+        # content += "You have spent Rs." + str(cart.total)
+        # mail = smtplib.SMTP('smtp.gmail.com', 587)
+        # mail.ehlo()
+        # mail.starttls()
+        # mail.login('skukreja434@gmail.com', 'vijan5562')
+        # mail.sendmail('skukreja434@gmail.com', sendto_mail, content)
+        # mail.close()
         for item in product:
             cart.products.remove(item)
         cart.total = 0
