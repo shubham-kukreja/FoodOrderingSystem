@@ -111,7 +111,7 @@ typed-ast==1.4.0
 ujson==2.0.3
 uritemplate==3.0.0
 urllib3==1.25.3
-uvicorn==0.11.3
+uvicorn==0.11.7
 virtualenv==16.6.1
 virtualenvwrapper-win==1.2.5
 watchdog==0.9.0
