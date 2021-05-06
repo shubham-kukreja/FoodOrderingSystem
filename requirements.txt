@@ -31,7 +31,7 @@ ffmpeg-python==0.2.0
 ffmpy==0.2.2
 firebase-admin==3.2.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 future==0.18.2
 gcloud==0.18.3
 Geo2D==0.1.22
