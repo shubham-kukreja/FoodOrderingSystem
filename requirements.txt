@@ -25,7 +25,7 @@ dnspython==1.16.0
 electron==0.0.1
 email-validator==1.0.5
 ephem==3.7.7.0
-fastapi==0.53.2
+fastapi==0.65.2
 ffmpeg==1.4
 ffmpeg-python==0.2.0
 ffmpy==0.2.2
