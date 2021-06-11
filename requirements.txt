@@ -117,7 +117,7 @@ virtualenvwrapper-win==1.2.5
 watchdog==0.9.0
 webencodings==0.5.1
 websocket-client==0.56.0
-websockets==8.1
+websockets==9.1
 Werkzeug==0.16.0
 wrapt==1.11.2
 xhtml2pdf==0.2.3
